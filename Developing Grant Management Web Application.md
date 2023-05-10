@@ -20,7 +20,7 @@ Application will contain front-end and backend parts.
 
 **Front-end:**
 * [Next.js](https://nextjs.org/) - powerful react framework for developing web app.
-* [Chakra UI](https://chakra-ui.com/) for building modular and accessible UI component
+* [Chakra UI](https://chakra-ui.com/) for building modular and accessible UI components
 * [TanStack Query/React Query](https://tanstack.com/query/latest/) one of the best solution for asynchronous state management for React
 
 ## Deliverables :nut_and_bolt:
