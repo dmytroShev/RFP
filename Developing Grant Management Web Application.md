@@ -1,7 +1,7 @@
 # Developing Grant Management Web Application
 
 * **Team Name**: Blaize.tech
-* **Payment Address**:
+* **Payment Address**: 0x7a83b5F20e69dfFe2c8FC942b54b159460C3D3d2
 * **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 
 
 ## Project Overview :page_facing_up:
